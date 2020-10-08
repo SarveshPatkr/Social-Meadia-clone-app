@@ -1,0 +1,7 @@
+.sidebarrow{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    word-wrap: break-word;
+    overflow: hidden;
+}

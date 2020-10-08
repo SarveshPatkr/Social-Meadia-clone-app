@@ -1,0 +1,9 @@
+.widgets{
+    background-color: rgb(231, 231, 231);
+    padding: 10px;
+}
+@media screen and (max-width: 1000px) {
+    .widgets{
+        display: none;
+    }
+}

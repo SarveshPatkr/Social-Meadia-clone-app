@@ -1,0 +1,32 @@
+.login__name{
+    color: rgb(170, 22, 255);
+    margin: 0;
+}
+.login > .login__logo > img{
+    height: 150px;
+    object-fit: contain;
+    margin: 0;
+}
+.login > div{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.login > button{
+    width: 300px;
+    background: rgb(170, 22, 255);
+    color: azure;
+    font-weight: 800;
+}
+.login > button:hover{
+
+    background: rgb(242, 219, 255);
+    color: black;
+
+}
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
+}

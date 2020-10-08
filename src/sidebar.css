@@ -1,0 +1,14 @@
+.sidebar{
+    width: 15%;
+    background-color: rgb(238, 238, 238);
+}
+.Profile__box{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+@media screen and (max-width: 1000px) {
+    .sidebar{
+        
+        display: none;
+    }
+  }
