@@ -12,3 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Social-Meadia-clone-app
 
 https://social-media-app-no1.firebaseapp.com/ visit this website here
+
+good pull requests will be accepted 
