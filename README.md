@@ -16,6 +16,6 @@ https://social-media-app-no1.firebaseapp.com/ visit this website here
 ### Login Page
 ![sociallogin](https://user-images.githubusercontent.com/54939371/96089776-f0c97900-0ee4-11eb-9801-86440eaf8572.jpg)
 ### Landing Page
-
-
+![landingpage](https://user-images.githubusercontent.com/54939371/96090032-4867e480-0ee5-11eb-9771-7f372d3625c5.jpg)
+<br/><br/><br/><br/><br/><br/><br/><br/>
 good pull requests will be accepted 
