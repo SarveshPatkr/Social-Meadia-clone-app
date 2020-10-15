@@ -10,7 +10,12 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Social-Meadia-clone-app
-
 https://social-media-app-no1.firebaseapp.com/ visit this website here
+<br/>
+## Screenshots
+### Login Page
+![sociallogin](https://user-images.githubusercontent.com/54939371/96089776-f0c97900-0ee4-11eb-9801-86440eaf8572.jpg)
+### Landing Page
+
 
 good pull requests will be accepted 
